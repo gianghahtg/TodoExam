@@ -168,7 +168,7 @@ export default {
     border-radius: 5px;
     -webkit-box-shadow: 0 0 30px -5px #2c3e50;
     box-shadow: 0 0 30px -5px #2c3e50;
-    margin: 1rem auto;
+    margin: 5rem auto 1rem;
     min-height: 300px;
 }
 .list-content {
